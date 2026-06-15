@@ -3,7 +3,7 @@
 My name is [Joshua Li](https://joshli.me/) and I'm a senior studying Computer Science at UCLA.
 
 🧠 I'm currently interested in machine learning and distributed systems.  
-💻 Incoming SWE Intern @ [MongoDB](https://www.mongodb.com/).
+💻 SWE Intern @ [MongoDB](https://www.mongodb.com/).
 
 📫 Reach me at:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 Email: joshuali3110 \[at\] ucla \[dot\] edu  
