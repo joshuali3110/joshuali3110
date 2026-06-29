@@ -1,8 +1,8 @@
 ## Hello! 👋
 
-My name is [Joshua Li](https://joshli.me/) and I'm a senior studying Computer Science at UCLA.
+My name is [Joshua Li](https://joshli.me/) and I'm a recent graduate from UCLA Computer Science (returning for a master's 26-27).
 
-🧠 I'm currently interested in machine learning and distributed systems.  
+🧠 I'm currently interested in distributed systems and AI/ML.  
 💻 SWE Intern @ [MongoDB](https://www.mongodb.com/).
 
 📫 Reach me at:  
